@@ -1,1 +1,4 @@
 Rencana konten
+JavaScipt
+- ES6
+Framework PHP

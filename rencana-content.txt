@@ -1,7 +1,11 @@
 Rencana konten
 JavaScipt
 - ES6
+- framework JavaScript
+- Vue
+- React
 Framework PHP
 - Laravel
+Struktur Data
 Python
 Golang

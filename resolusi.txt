@@ -3,7 +3,34 @@ Resolusi Tahun 2020
 - Learning Docker
 - Review PHP-OOP
 - Learning Fullstack Programming
-Review Basic
+Review Basic (Front End)
 - HTML5 (basics, forms and validations, conventions and best practices)
 - CSS (basics, layout, responsive design and media queries)
 - JavaScript (basics, DOM manipulation, AJAX, ES6+ and modular JavaScript, etc)
+
+Version Control Systems
+- Basics Git
+- Repo hosting Github / Gitlab
+
+Package Managers:
+- npm
+- yarn
+
+Build tools
+- npm scripts
+- module bundlers (webpack, rollup, parcel)
+
+Pick a Freamework
+- React.js
+- Angular
+- Vue.js
+
+CSS Frameworks
+- Bootstrap
+- Reactstrap / Material UI (JS based)
+
+Mobile applications:
+- React Native
+
+Desktop applications
+- Electron

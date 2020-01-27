@@ -1,4 +1,8 @@
 Rencana konten
 JavaScipt
 - ES6
+- framework JavaScript
 Framework PHP
+Struktur Data
+Python
+Golang

@@ -1,0 +1,5 @@
+Resolusi Tahun 2020
+- Learning Git
+- Learning Docker
+- Review PHP-OOP
+- Lerning Fullstack Programming
